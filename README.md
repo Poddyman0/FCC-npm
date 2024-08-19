@@ -22,4 +22,11 @@ In this course, I explored npm (Node Package Manager), a command-line tool that 
       <li>Managed dependencies by adding, updating, and removing packages using npm commands.</li>
     </ul>
   </li>
-  <li><strong>
+  <li><strong>Dependency Management:</strong>
+    <ul>
+      <li>Handled different types of dependencies (e.g., dependencies and devDependencies) to ensure the project has the right libraries for both production and development environments.</li>
+      <li>Used npm scripts to automate common tasks such as testing and building the project.</li>
+    </ul>
+  </li>
+</ul>
+
